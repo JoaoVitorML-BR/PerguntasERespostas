@@ -1,5 +1,7 @@
 # Site de perguntas e respostas
 
+<img align="center" alt="perguntaserespostas" height="160" width="380" src="./public/img/preguntaserespostas.png"><br>
+    
 - esse site foi feito usando NodeJS + EJS + Express + Mysql.
 - O site consiste em a muitos que vemos por ai, exemplo o StarckOverflow. onde você pode fazer uma pergunta e alguèm responder.
 - O site eu fiz sem exigir nenhum login, o que geralmente não ocorre em um site de perguntas em respostas. por tanto caso pretenda fazer alguma melhoria, fica a dica.
@@ -27,7 +29,7 @@
 
 # Banco de dados MySQL
 
-<img align="center" alt="NODE.JS" height="120" width="320" src="./public/img/mysql.png"><br>
+<img align="center" alt="MYSQL" height="120" width="320" src="./public/img/mysql.png"><br>
 
 - O banco de dados que usei foi o MySQL, portanto é importante que você tenha ele instalado em sua maquina.
  - No youtube existem diversos tutitoriais ensinando a se instalar um Banco de dados MySQL seja em sistema operacional Linux ou Windows.
@@ -50,7 +52,7 @@
 
 ## Configurando o Banco MySQL  
   - Para configurar o Banco MySQL com o sequelize iremos abrir o nosso MySQL-Workbench e criar um novo schema.<br>
-  <img align="center" alt="NODE.JS" height="120" width="320" src="./imagensbd/newschema.png"><br>
+  <img align="center" alt="schema" height="120" width="320" src="./imagensbd/newschema.png"><br>
   
   - coloque o nome do banco de dados de: * guiaperguntas * e em seguida vá clicando em apply conforme for pedindo.
   - após ter definido o nome do banco de dados, na pásta database/database.js nós definimos para o sequilize a origem dele passando o seu nome, usuario e senha.<br>
