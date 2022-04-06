@@ -6,7 +6,7 @@
 
 ## Iniciar o Projeto
 
-<img align="center" alt="NODE.JS" height="120" width="320" src="./public/img/node.jpg">
+<img align="center" alt="NODE.JS" height="120" width="320" src="./public/img/node.jpg"><br>
 
 - O projeto conta com algumas bibliotecas / frameworks. portanto o nosso package.json tem todas as dependências necessarias para que o projeto funcione.
     - então precisamos rodar o seguinte comando: * npm install *.<br>
@@ -14,7 +14,10 @@
 <hr>
 
 ## O que é o EJS?
-
+   
+   
+<img align="center" alt="NODE.JS" height="120" width="320" src="./public/img/ejs.gif"><br>
+   
   - Bom, eu resolvi explicar o motivo do uso do EJS ao Invés do HTML.
   - Então, é isso mesmo que você pensou, esse EJS citado na inicialização do projeto é um HTML, porém com a extensão diferente (ejs).
   - o motivo do uso ejs é que a engine dele é carregado pelo NodeJS/Express.
@@ -23,6 +26,8 @@
 <hr>
 
 # Banco de dados MySQL
+
+<img align="center" alt="NODE.JS" height="120" width="320" src="./public/img/mysql.png"><br>
 
 - O banco de dados que usei foi o MySQL, portanto é importante que você tenha ele instalado em sua maquina.
  - No youtube existem diversos tutitoriais ensinando a se instalar um Banco de dados MySQL seja em sistema operacional Linux ou Windows.
@@ -45,7 +50,7 @@
 
 ## Configurando o Banco MySQL  
   - Para configurar o Banco MySQL com o sequelize iremos abrir o nosso MySQL-Workbench e criar um novo schema.<br>
-  <img align="center" alt="NODE.JS" height="120" width="320" src="./imagensbd/newschema.png">
+  <img align="center" alt="NODE.JS" height="120" width="320" src="./imagensbd/newschema.png"><br>
   
   - coloque o nome do banco de dados de: * guiaperguntas * e em seguida vá clicando em apply conforme for pedindo.
   - após ter definido o nome do banco de dados, na pásta database/database.js nós definimos para o sequilize a origem dele passando o seu nome, usuario e senha.<br>
