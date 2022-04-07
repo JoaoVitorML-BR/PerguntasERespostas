@@ -70,4 +70,9 @@
   - para rodar o projeto, iremos rodar o seguinte comando: * npm start
   - e acessar no seu navegador o endereço: 
     * http://localhost:8080
-  
+
+## Site Funcionando
+    
+- clique no gif para ver o vídeo do site:    
+
+[![SITE FUNCIONANDO](https://media.giphy.com/media/4u7FxYVziKuo8WIk45/giphy.gif)](https://www.youtube.com/watch?v=hHKvUwaVuVg)
