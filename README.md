@@ -75,4 +75,4 @@
     
 - clique no gif para ver o vídeo do site:    
 
-[![SITE FUNCIONANDO](https://media.giphy.com/media/4u7FxYVziKuo8WIk45/giphy.gif)](https://www.youtube.com/watch?v=TwSKRTrghc)
+[![SITE FUNCIONANDO](https://media.giphy.com/media/4u7FxYVziKuo8WIk45/giphy.gif)](https://www.youtube.com/watch?v=hHKvUwaVuVg)
