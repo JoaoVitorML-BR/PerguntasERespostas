@@ -3,7 +3,7 @@
 <img align="center" alt="perguntaserespostas" height="160" width="380" src="./public/img/preguntaserespostas.png"><br>
     
 - esse site foi feito usando NodeJS + EJS + Express + Mysql.
-- O site consiste em a muitos que vemos por ai, exemplo o StarckOverflow. onde você pode fazer uma pergunta e alguèm responder.
+- O site consiste é parecido com muitos que vemos por ai, onde você pode fazer uma pergunta anônima e alguèm responder anônimamente também.
 - O site eu fiz sem exigir nenhum login, o que geralmente não ocorre em um site de perguntas em respostas. por tanto caso pretenda fazer alguma melhoria, fica a dica.
 
 ## Iniciar o Projeto
